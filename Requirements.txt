@@ -4,6 +4,6 @@ SpeechRecognition
 
 Wikipedia
 
-Webbrowser
+webbrowser
 
 Pyautogui
