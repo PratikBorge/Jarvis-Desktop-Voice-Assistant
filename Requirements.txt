@@ -1,9 +1,9 @@
-1. Pyttsx3
+Pyttsx3
 
-2. Speech Rrecognition
+Speech Rrecognition
 
-3. Wikipedia
+Wikipedia
 
-4. Webbrowser
+Webbrowser
 
-5. Pyautogui
+Pyautogui
