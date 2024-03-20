@@ -1,6 +1,6 @@
 Pyttsx3
 
-Speech Recognition
+SpeechRecognition
 
 Wikipedia
 
