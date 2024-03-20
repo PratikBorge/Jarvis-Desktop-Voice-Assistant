@@ -4,6 +4,4 @@ SpeechRecognition
 
 Wikipedia
 
-pycopy-webbrowser
-
 Pyautogui
